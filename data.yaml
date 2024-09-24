@@ -1,0 +1,7 @@
+
+train: C:\Users\Adil\Desktop\cv\dataset\image\train
+val: C:\Users\Adil\Desktop\cv\dataset\image\train
+
+names: 
+  0: 'Empty_Shelf'
+ 
